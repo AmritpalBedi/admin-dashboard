@@ -25,6 +25,8 @@
     display: flex;
     flex-direction: column;
     gap: 5%;
+    position: sticky;
+    top: 0px;
 }
 
 .main-content {
