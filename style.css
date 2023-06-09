@@ -172,3 +172,26 @@
     height: 25vh;
     border-radius: 15px;
 }
+
+.project-container {
+    display: grid;
+    grid-template-rows: 4fr 1fr;
+    
+}
+
+.project-container .text {
+    margin: 30px 10px 0px 25px;
+
+}
+
+.text p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icons {
+    margin-left: auto;
+    margin-right: 25px;
+    display: flex;
+    gap: 25px;
+}
