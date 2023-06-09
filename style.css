@@ -195,3 +195,16 @@
     display: flex;
     gap: 25px;
 }
+
+.announcements h3,
+.trending h3 {
+    font-size: 25px;
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    margin: 35px 15px;
+    gap: 15px;
+}
+
