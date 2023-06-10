@@ -181,6 +181,7 @@
 
 .project-container .text {
     margin: 30px 10px 0px 25px;
+    overflow: hidden;
 
 }
 
